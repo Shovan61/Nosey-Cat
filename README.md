@@ -1,2 +1,2 @@
-# Nosey-CatDemo:
+Demo:
 nosey-cat.netlify.app
