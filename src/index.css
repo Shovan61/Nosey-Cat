@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@100;200;300;400;500;600;700&family=Dancing+Script:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+/* 
+font-family: 'Barlow Condensed', sans-serif;
+font-family: 'Dancing Script', cursive; 
+font-family: 'Monoton', cursive;
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgba(3, 0, 0, 0.411);
+    border-radius: 6px;
+}
+
+a:active {
+    color: inherit;
+}
